@@ -14,3 +14,4 @@ def test_countvowels():
     assert countvowels("борщ") == 1 
 def test_remove_duplicates():
     assert removeduplicates("анна") == "ан"
+#proverka2
