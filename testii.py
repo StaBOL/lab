@@ -10,3 +10,4 @@ class MyTestCase(unittest.TestCase):
             self.assertEqual(main.onefunc("hello"),"olleh")
     def test_something4(self):
                 self.assertEqual(main.removeduplicates("сонн"),"сон")
+#проверка изменения
